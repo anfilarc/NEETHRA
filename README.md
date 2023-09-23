@@ -1,4 +1,4 @@
-Neethra: AI-Powered Drone for Disaster Management
+NEETHRA: AI-Powered Drone for Disaster Management
 Neethra Drone
 
 Overview
